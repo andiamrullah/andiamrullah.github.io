@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>parkir3000</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.749304527551,-7.25818020041244 112.750680110085,-7.25798526324397</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.750128785339,-7.2582397645304 112.749440994072,-7.2615428532705</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.750237958556,-7.25883540527624 112.750892997858,-7.25896536315235 112.751242352152,-7.25906283153478 112.751460698586,-7.25904117189607 112.751788218237,-7.25905200171556 112.752039316636,-7.2589978526155 112.752279497713,-7.25898702279471</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.750106950695,-7.25961515196964 112.751133178935,-7.25977759902729 112.751580789125,-7.25983174803346 112.752061151279,-7.25978842882904 112.752268580391,-7.25978842882904</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.749954108192,-7.2604490462431 112.751144096257,-7.26061149299955</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
