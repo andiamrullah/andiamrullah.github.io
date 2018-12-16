@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>parkir3000new</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.736299463999,-7.26655056762305 112.736708439897,-7.26607014358997 112.73700620305,-7.26584238683185 112.737135353333,-7.26578900632497 112.737257328601,-7.26576409541959 112.737436703995,-7.26573918451283 112.737698592069,-7.26572850840951 112.737827742353,-7.26572139100716</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.749967868994,-7.26042957116578 112.751137396561,-7.26062886073496</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.750107781801,-7.25964664700332 112.75110510899,-7.25983881942395</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.751327534478,-7.25987796564773 112.752256699017,-7.25982814318052</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.750229757069,-7.25885304521146 112.750961608675,-7.25900963042926 112.75120555921,-7.25913062806022 112.751858485643,-7.25908436426399 112.752278224064,-7.25904165921709</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.749314942561,-7.25822670379523 112.750111369309,-7.25814485229571 112.7506997206,-7.25803097192381</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.749142742183,-7.25829787900008 112.749149917199,-7.25841887682249 112.748504165782,-7.26110217310782</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.750089844262,-7.25828364396001 112.75007549423,-7.25877475258213 112.749444092845,-7.26151498649998</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.73515146148,-7.25224082878086 112.735840262991,-7.25048989191069 112.736371214157,-7.24863930082708</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>112.743022453752,-7.23381294490625 112.743840405547,-7.23250324818037 112.745131908382,-7.23090882964706</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
